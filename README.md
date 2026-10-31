@@ -4,6 +4,7 @@
 I write code that works on my machine and occasionally on yours too<br>
 <br>- Currently working on improving my skills in dev-ops
 <br>- Interested in web-dev
+<br>- yes, even this was done with a prompt 
 
 
 ##  Socials:
